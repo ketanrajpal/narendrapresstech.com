@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<products>
+  <press>
+    <slug>nhf</slug>
+    <name>Hot Forging Press (NHF)</name>
+    <img>4</img>
+  </press>
+  <press>
+    <slug>nkj</slug>
+    <name>Knuckle Joint Press (NKJ)</name>
+    <img>2</img>
+  </press>
+  <press>
+    <slug>nx</slug>
+    <name>Cross Shaft Press (NX)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>ncl</slug>
+    <name>Single Point Crankless Press (NCL)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>nrx</slug>
+    <name>Ring Frame Cross Shaft Press (NRX)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>nhp</slug>
+    <name>Two Point High Speed Press (NHP)</name>
+    <img>2</img>
+  </press>
+  <press>
+    <slug>nsr</slug>
+    <name>Left To Right Press (NSR)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>nse</slug>
+    <name>Straight Sided Two Point Press (NSE)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>nhx</slug>
+    <name>Straight Sided Single Crank Press (NHX)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>nsu</slug>
+    <name>Straight Sided Presses (NSU)</name>
+    <img>1</img>
+  </press>
+  <press>
+    <slug>ppcap</slug>
+    <name>Pilfer Proof Caps Making Machine</name>
+    <img>1</img>
+  </press>
+</products>

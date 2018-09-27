@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule ^series/([a-zA-Z0-9-/]+)$ series/?slug=$1   [L]
+RewriteRule ^series-old/([a-zA-Z0-9-/]+)$ series-old/?slug=$1   [L]
+RewriteRule ^used-mechanical-presses/([a-zA-Z0-9-/]+)$ used-mechanical-presses/?slug=$1   [L]

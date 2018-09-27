@@ -1,0 +1,4 @@
+[23-Aug-2014 12:08:28 UTC] PHP Warning:  require_once(../img/products/inc/nrx-head.html): failed to open stream: No such file or directory in /home/krplinfo/public_html/demo1/series/index.php on line 48
+[23-Aug-2014 12:08:28 UTC] PHP Fatal error:  require_once(): Failed opening required '../img/products/inc/nrx-head.html' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/krplinfo/public_html/demo1/series/index.php on line 48
+[24-Aug-2014 06:26:03 UTC] PHP Warning:  require_once(../img/products/inc/nrx-head.html): failed to open stream: No such file or directory in /home/krplinfo/public_html/demo1/series/index.php on line 48
+[24-Aug-2014 06:26:03 UTC] PHP Fatal error:  require_once(): Failed opening required '../img/products/inc/nrx-head.html' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/krplinfo/public_html/demo1/series/index.php on line 48

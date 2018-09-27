@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<products>
+  <press>
+    <detail>h-frame-press</detail>
+    <slug>h-frame-press-1</slug>
+    <name>H Frame Press 1</name>
+    <label>Straight Sided Press - Erfurt 315 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>h-frame-press</detail>
+    <slug>h-frame-press-2</slug>
+    <name>H Frame Press 2</name>
+    <label>Straight Sided Press - Erfurt 500 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>h-frame-press</detail>
+    <slug>h-frame-press-3</slug>
+    <name>H Frame Press 3</name>
+    <label>Straight Sided Press - Erfurt 500 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>h-frame-press</detail>
+    <slug>h-frame-press-4</slug>
+    <name>H Frame Press 4</name>
+    <label>Straight Sided Press - Smeral 300 Ton</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>h-frame-press</detail>
+    <slug>h-frame-press-5</slug>
+    <name>H Frame Press 5</name>
+    <label>Straight Sided Press - Smeral 300 Ton</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>h-frame-press</detail>
+    <slug>h-frame-press-6</slug>
+    <name>H Frame Press 6</name>
+    <label>Trimming Machine - Ver 300 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>knuckle-joint-press</detail>
+    <slug>knuckle-joint-press-1</slug>
+    <name>Knuckle Joint Press 1</name>
+    <label>Press MKN 450 Komatsu</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>knuckle-joint-press</detail>
+    <slug>knuckle-joint-press-2</slug>
+    <name>Knuckle Joint Press 2</name>
+    <label>Komatsu Model MKN-160</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>knuckle-joint-press</detail>
+    <slug>knuckle-joint-press-3</slug>
+    <name>Knuckle Joint Press 3</name>
+    <label>Knuckle Joint Press 600 Ton</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>knuckle-joint-press</detail>
+    <slug>knuckle-joint-press-4</slug>
+    <name>Knuckle Joint Press 4</name>
+    <label>Komatsu May Press 300 Ton</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>knuckle-joint-press</detail>
+    <slug>knuckle-joint-press-5</slug>
+    <name>Knuckle Joint Press 5</name>
+    <label>Bliss 1000 Ton</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>knuckle-joint-press</detail>
+    <slug>knuckle-joint-press-6</slug>
+    <name>Knuckle Joint Press 6</name>
+    <label>Agostino Colombo Knuckle Joint Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>hot-forging-press</detail>
+    <slug>hot-forging-press-1</slug>
+    <name>Hot Forging Press 1</name>
+    <label>Hot Forging 350 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>hot-forging-press</detail>
+    <slug>hot-forging-press-2</slug>
+    <name>Hot Forging Press 2</name>
+    <label>1300 Ton, National Maxipress No.3</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>hot-forging-press</detail>
+    <slug>hot-forging-press-3</slug>
+    <name>Hot Forging Press 3</name>
+    <label>Massey 2500 TON Hot forging press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>hot-forging-press</detail>
+    <slug>hot-forging-press-4</slug>
+    <name>Hot Forging Press 4</name>
+    <label>Ajax 1000 TON Hot forging press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>high-speed-press</detail>
+    <slug>high-speed-press-1</slug>
+    <name>High Speed Press 1</name>
+    <label>Micron 60 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>high-speed-press</detail>
+    <slug>high-speed-press-2</slug>
+    <name>High Speed Press 2</name>
+    <label>Micron 30 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>high-speed-press</detail>
+    <slug>high-speed-press-3</slug>
+    <name>High Speed Press 3</name>
+    <label>Dobby 45 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>high-speed-press</detail>
+    <slug>high-speed-press-4</slug>
+    <name>High Speed Press 4</name>
+    <label>Micron 25 Ton Power Press</label>
+    <img>1</img>
+  </press>
+  <press>
+    <detail>high-speed-press</detail>
+    <slug>high-speed-press-5</slug>
+    <name>High Speed Press 5</name>
+    <label>C Frame Press</label>
+    <img>1</img>
+  </press>
+</products>
